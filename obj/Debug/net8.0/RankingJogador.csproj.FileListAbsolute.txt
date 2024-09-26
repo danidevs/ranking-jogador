@@ -1,0 +1,15 @@
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\bin\Debug\net8.0\RankingJogador.exe
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\bin\Debug\net8.0\RankingJogador.deps.json
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\bin\Debug\net8.0\RankingJogador.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\bin\Debug\net8.0\RankingJogador.dll
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\bin\Debug\net8.0\RankingJogador.pdb
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\obj\Debug\net8.0\RankingJogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\obj\Debug\net8.0\RankingJogador.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\obj\Debug\net8.0\RankingJogador.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\obj\Debug\net8.0\RankingJogador.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\obj\Debug\net8.0\RankingJogador.sourcelink.json
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\obj\Debug\net8.0\RankingJogador.dll
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\obj\Debug\net8.0\refint\RankingJogador.dll
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\obj\Debug\net8.0\RankingJogador.pdb
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\obj\Debug\net8.0\RankingJogador.genruntimeconfig.cache
+C:\Users\Daniel\OneDrive\Desktop\Daniel\CSharp\ProjetoDio\RankingJogador\obj\Debug\net8.0\ref\RankingJogador.dll
